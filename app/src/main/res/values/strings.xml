@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">" GoogleMapProject"</string>
+    <string name="gps_network_not_enabled">Make Sure Your Location is ON</string>
+    <string name="open_location_settings">Please enable your location...</string>
+    <string name="Cancel">Cancel</string>
+</resources>
